@@ -1,3 +1,191 @@
 #EXTM3U
-
-#EXTINF:0,True TV http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
+#EXTINF:-1,USA: HALLMARK-CHANNEL
+http://showmetv.live:80/mercan16/b846e16112/34505
+#EXTINF:-1,USA: HALLMARK-DRAMA
+http://showmetv.live:80/mercan16/b846e16112/34506
+#EXTINF:-1,USA: HALLMARK-MOVIES-&-MYSTERIES
+http://showmetv.live:80/mercan16/b846e16112/34507
+#EXTINF:-1,USA: Cinemax East
+http://showmetv.live:80/mercan16/b846e16112/34509
+#EXTINF:-1,USA: Showtime West
+http://showmetv.live:80/mercan16/b846e16112/34510
+#EXTINF:-1,USA: showtime-east
+http://showmetv.live:80/mercan16/b846e16112/34511
+#EXTINF:-1,USA: hbo-west
+http://showmetv.live:80/mercan16/b846e16112/34512
+#EXTINF:-1,USA: hbo-east
+http://showmetv.live:80/mercan16/b846e16112/34513
+#EXTINF:-1,USA: SONY-MOVIE-CHANNEL
+http://showmetv.live:80/mercan16/b846e16112/34514
+#EXTINF:-1,USA: STARZ_ENCORE
+http://showmetv.live:80/mercan16/b846e16112/34517
+#EXTINF:-1,USA: SUNDANCE
+http://showmetv.live:80/mercan16/b846e16112/34520
+#EXTINF:-1,USA: EPIX
+http://showmetv.live:80/mercan16/b846e16112/34521
+#EXTINF:-1,USA: EPIX2
+http://showmetv.live:80/mercan16/b846e16112/34522
+#EXTINF:-1,USA: epix3
+http://showmetv.live:80/mercan16/b846e16112/34523
+#EXTINF:-1,USA: SyFy
+http://showmetv.live:80/mercan16/b846e16112/34524
+#EXTINF:-1,USA: AMC
+http://showmetv.live:80/mercan16/b846e16112/34525
+#EXTINF:-1,USA: TNT
+http://showmetv.live:80/mercan16/b846e16112/34526
+#EXTINF:-1,USA: TNT WEST
+http://showmetv.live:80/mercan16/b846e16112/34527
+#EXTINF:-1,USA: FXX
+http://showmetv.live:80/mercan16/b846e16112/34528
+#EXTINF:-1,USA: FXM
+http://showmetv.live:80/mercan16/b846e16112/34529
+#EXTINF:-1,USA: FX
+http://showmetv.live:80/mercan16/b846e16112/34530
+#EXTINF:-1,USA: TLC
+http://showmetv.live:80/mercan16/b846e16112/34531
+#EXTINF:-1,USA: TBS
+http://showmetv.live:80/mercan16/b846e16112/34532
+#EXTINF:-1,USA: USA
+http://showmetv.live:80/mercan16/b846e16112/34533
+#EXTINF:-1,USA: Bravo
+http://showmetv.live:80/mercan16/b846e16112/34534
+#EXTINF:-1,USA: WE
+http://showmetv.live:80/mercan16/b846e16112/34535
+#EXTINF:-1,USA: OXYGEN
+http://showmetv.live:80/mercan16/b846e16112/34536
+#EXTINF:-1,USA: IFC
+http://showmetv.live:80/mercan16/b846e16112/34537
+#EXTINF:-1,USA: FREEFORM
+http://showmetv.live:80/mercan16/b846e16112/34538
+#EXTINF:-1,USA: OWN
+http://showmetv.live:80/mercan16/b846e16112/34539
+#EXTINF:-1,USA: FUSION
+http://showmetv.live:80/mercan16/b846e16112/34540
+#EXTINF:-1,USA: YES
+http://showmetv.live:80/mercan16/b846e16112/34541
+#EXTINF:-1,USA: CLEO-TV
+http://showmetv.live:80/mercan16/b846e16112/34542
+#EXTINF:-1,USA: VELOCITY
+http://showmetv.live:80/mercan16/b846e16112/34543
+#EXTINF:-1,USA: TRU-TV
+http://showmetv.live:80/mercan16/b846e16112/34544
+#EXTINF:-1,USA: HLN
+http://showmetv.live:80/mercan16/b846e16112/34545
+#EXTINF:-1,USA: HGTV
+http://showmetv.live:80/mercan16/b846e16112/34546
+#EXTINF:-1,USA: Cooking-Channel
+http://showmetv.live:80/mercan16/b846e16112/34547
+#EXTINF:-1,USA: DIY NETWORK
+http://showmetv.live:80/mercan16/b846e16112/34548
+#EXTINF:-1,USA: E!
+http://showmetv.live:80/mercan16/b846e16112/34549
+#EXTINF:-1,USA: CBS-POP
+http://showmetv.live:80/mercan16/b846e16112/34550
+#EXTINF:-1,USA: CBS
+http://showmetv.live:80/mercan16/b846e16112/34551
+#EXTINF:-1,USA: MSNBC
+http://showmetv.live:80/mercan16/b846e16112/34552
+#EXTINF:-1,USA: KNBC_LAX
+http://showmetv.live:80/mercan16/b846e16112/34553
+#EXTINF:-1,USA: FOX29
+http://showmetv.live:80/mercan16/b846e16112/34554
+#EXTINF:-1,USA: CNN
+http://showmetv.live:80/mercan16/b846e16112/34555
+#EXTINF:-1,USA: CNBC-WORLD
+http://showmetv.live:80/mercan16/b846e16112/34556
+#EXTINF:-1,USA: CNBC
+http://showmetv.live:80/mercan16/b846e16112/34557
+#EXTINF:-1,USA: BBCAMERICA
+http://showmetv.live:80/mercan16/b846e16112/34558
+#EXTINF:-1,USA: BBC World
+http://showmetv.live:80/mercan16/b846e16112/34559
+#EXTINF:-1,USA: FOX News
+http://showmetv.live:80/mercan16/b846e16112/34560
+#EXTINF:-1,USA: FOX-Business
+http://showmetv.live:80/mercan16/b846e16112/34561
+#EXTINF:-1,USA: NBC NEWS
+http://showmetv.live:80/mercan16/b846e16112/34562
+#EXTINF:-1,USA: ABC NEWS
+http://showmetv.live:80/mercan16/b846e16112/34563
+#EXTINF:-1,USA: BABY-TV
+http://showmetv.live:80/mercan16/b846e16112/34564
+#EXTINF:-1,USA: CARTOON-NETWORK
+http://showmetv.live:80/mercan16/b846e16112/34565
+#EXTINF:-1,USA: DISNEY-CHANNEL
+http://showmetv.live:80/mercan16/b846e16112/34566
+#EXTINF:-1,USA: DISNEY-JUNIOR
+http://showmetv.live:80/mercan16/b846e16112/34567
+#EXTINF:-1,USA: Disnex-XD
+http://showmetv.live:80/mercan16/b846e16112/34568
+#EXTINF:-1,USA: BOOMERANG
+http://showmetv.live:80/mercan16/b846e16112/34569
+#EXTINF:-1,USA: DISCOVERY-FAMILIA
+http://showmetv.live:80/mercan16/b846e16112/34570
+#EXTINF:-1,USA: DISCOVERY
+http://showmetv.live:80/mercan16/b846e16112/34571
+#EXTINF:-1,USA: DISCOVERY-FAMILY
+http://showmetv.live:80/mercan16/b846e16112/34572
+#EXTINF:-1,USA: DISCOVERY SCIENCE*
+http://showmetv.live:80/mercan16/b846e16112/34573
+#EXTINF:-1,USA: INVESTIGATION-DISCOVERY
+http://showmetv.live:80/mercan16/b846e16112/34574
+#EXTINF:-1,USA: DISCOVERY LIFE
+http://showmetv.live:80/mercan16/b846e16112/34575
+#EXTINF:-1,USA: NATGEO
+http://showmetv.live:80/mercan16/b846e16112/34576
+#EXTINF:-1,USA: NATGEO WILD
+http://showmetv.live:80/mercan16/b846e16112/34577
+#EXTINF:-1,USA: ANIMAL-PLANET
+http://showmetv.live:80/mercan16/b846e16112/34578
+#EXTINF:-1,USA: TRAVEL
+http://showmetv.live:80/mercan16/b846e16112/34579
+#EXTINF:-1,USA: OUTSIDE
+http://showmetv.live:80/mercan16/b846e16112/34580
+#EXTINF:-1,USA: DESTINATION-AMERICA
+http://showmetv.live:80/mercan16/b846e16112/34581
+#EXTINF:-1,USA: AMERICAN-HEROES-CHANNEL
+http://showmetv.live:80/mercan16/b846e16112/34582
+#EXTINF:-1,USA: Food-Network
+http://showmetv.live:80/mercan16/b846e16112/34583
+#EXTINF:-1,USA: OLYMPIC
+http://showmetv.live:80/mercan16/b846e16112/34584
+#EXTINF:-1,USA: beINSports
+http://showmetv.live:80/mercan16/b846e16112/34585
+#EXTINF:-1,USA: ELEVEN-NETWORK
+http://showmetv.live:80/mercan16/b846e16112/34586
+#EXTINF:-1,USA: FOX_SPORT
+http://showmetv.live:80/mercan16/b846e16112/34587
+#EXTINF:-1,USA: FOX-sports-1
+http://showmetv.live:80/mercan16/b846e16112/34588
+#EXTINF:-1,USA: FOX SPORTS2
+http://showmetv.live:80/mercan16/b846e16112/34589
+#EXTINF:-1,USA: FOX_FCS_CENTRAL
+http://showmetv.live:80/mercan16/b846e16112/34590
+#EXTINF:-1,USA: FOX_FCS_ATLANTIC
+http://showmetv.live:80/mercan16/b846e16112/34591
+#EXTINF:-1,USA: ESPN-NEWS
+http://showmetv.live:80/mercan16/b846e16112/34592
+#EXTINF:-1,USA: ESPN
+http://showmetv.live:80/mercan16/b846e16112/34593
+#EXTINF:-1,USA: ESPN 2
+http://showmetv.live:80/mercan16/b846e16112/34594
+#EXTINF:-1,USA: ESPN U
+http://showmetv.live:80/mercan16/b846e16112/34595
+#EXTINF:-1,USA: ESPN-SEC
+http://showmetv.live:80/mercan16/b846e16112/34596
+#EXTINF:-1,USA: NBA-TV
+http://showmetv.live:80/mercan16/b846e16112/34597
+#EXTINF:-1,USA: TENNIS
+http://showmetv.live:80/mercan16/b846e16112/34598
+#EXTINF:-1,USA: golf-chan
+http://showmetv.live:80/mercan16/b846e16112/34599
+#EXTINF:-1,USA: GINX
+http://showmetv.live:80/mercan16/b846e16112/34600
+#EXTINF:-1,USA: NFL-NETWORK
+http://showmetv.live:80/mercan16/b846e16112/34601
+#EXTINF:-1,USA: NBC SPORTS NETWORK
+http://showmetv.live:80/mercan16/b846e16112/34602
+#EXTINF:-1,USA: BIG-TEN-NETWORK
+http://showmetv.live:80/mercan16/b846e16112/34603
+#EXTINF:-1,Pastebin USA IPTV M3U Playlist
+https://pastebin.com/raw/4k95cGDT
