@@ -1,535 +1,167 @@
 #EXTM3U
-#EXTINF:-1,ESPN HD US
-http://latvonlive.com:33612/2030/1234/536
-#EXTINF:-1,ESPN2 HD US
-http://latvonlive.com:33612/2030/1234/670
-#EXTINF:-1,ESPNEWS HD
-http://latvonlive.com:33612/2030/1234/671
-#EXTINF:-1,ESPNU HD
-http://latvonlive.com:33612/2030/1234/726
-#EXTINF:-1,FOX Soccer Plus HD
-http://latvonlive.com:33612/2030/1234/258
-#EXTINF:-1,Fox Sports 1 HD US
-http://latvonlive.com:33612/2030/1234/372
-#EXTINF:-1,Fox Sports 2 HD US
-http://latvonlive.com:33612/2030/1234/371
-#EXTINF:-1,GINX eSports HD
-http://latvonlive.com:33612/2030/1234/683
-#EXTINF:-1,GolTV US
-http://latvonlive.com:33612/2030/1234/369
-#EXTINF:-1,MavTV HD
-http://latvonlive.com:33612/2030/1234/831
-#EXTINF:-1,MLB Network HD
-http://latvonlive.com:33612/2030/1234/658
-#EXTINF:-1,MLB 1 HD
-http://latvonlive.com:33612/2030/1234/702
-#EXTINF:-1,MLB 2 HD
-http://latvonlive.com:33612/2030/1234/703
-#EXTINF:-1,MLB 3 HD
-http://latvonlive.com:33612/2030/1234/704
-#EXTINF:-1,MLB 4 HD
-http://latvonlive.com:33612/2030/1234/705
-#EXTINF:-1,MLB 5 HD
-http://latvonlive.com:33612/2030/1234/706
-#EXTINF:-1,MLB 6 HD
-http://latvonlive.com:33612/2030/1234/707
-#EXTINF:-1,MLB 7 HD
-http://latvonlive.com:33612/2030/1234/708
-#EXTINF:-1,MLB 8 HD
-http://latvonlive.com:33612/2030/1234/709
-#EXTINF:-1,MLB 9 HD
-http://latvonlive.com:33612/2030/1234/710
-#EXTINF:-1,MLB 10 HD
-http://latvonlive.com:33612/2030/1234/711
-#EXTINF:-1,MLB 11 HD
-http://latvonlive.com:33612/2030/1234/782
-#EXTINF:-1,MLB 12 HD
-http://latvonlive.com:33612/2030/1234/783
-#EXTINF:-1,MLB 13 HD
-http://latvonlive.com:33612/2030/1234/784
-#EXTINF:-1,MLB 14 HD
-http://latvonlive.com:33612/2030/1234/785
-#EXTINF:-1,MLB 15 HD
-http://latvonlive.com:33612/2030/1234/786
-#EXTINF:-1,MotorTrend HD
-http://latvonlive.com:33612/2030/1234/684
-#EXTINF:-1,MSG
-http://latvonlive.com:33612/2030/1234/5714
-#EXTINF:-1,MSG Plus
-http://latvonlive.com:33612/2030/1234/5713
-#EXTINF:-1,NBA TV HD
-http://latvonlive.com:33612/2030/1234/262
-#EXTINF:-1,NBC Sports Bay Area HD
-http://latvonlive.com:33612/2030/1234/741
-#EXTINF:-1,NBC Sports California HD
-http://latvonlive.com:33612/2030/1234/743
-#EXTINF:-1,NBC Sports Chicago HD
-http://latvonlive.com:33612/2030/1234/253
-#EXTINF:-1,NBC Sports Chicago Plus HD
-http://latvonlive.com:33612/2030/1234/756
-#EXTINF:-1,NBC Sports Northwest HD
-http://latvonlive.com:33612/2030/1234/745
-#EXTINF:-1,NBC Sports Philadelphia HD
-http://latvonlive.com:33612/2030/1234/744
-#EXTINF:-1,NBC Sports Washington HD
-http://latvonlive.com:33612/2030/1234/746
-#EXTINF:-1,NBCSN HD
-http://latvonlive.com:33612/2030/1234/263
-#EXTINF:-1,NFL Network HD
-http://latvonlive.com:33612/2030/1234/425
-#EXTINF:-1,NFL RedZone HD
-http://latvonlive.com:33612/2030/1234/424
-#EXTINF:-1,NFL 1 HD
-http://latvonlive.com:33612/2030/1234/712
-#EXTINF:-1,NFL 2 HD
-http://latvonlive.com:33612/2030/1234/713
-#EXTINF:-1,NFL 3 HD
-http://latvonlive.com:33612/2030/1234/714
-#EXTINF:-1,NFL 4 HD
-http://latvonlive.com:33612/2030/1234/715
-#EXTINF:-1,NFL 5 HD
-http://latvonlive.com:33612/2030/1234/716
-#EXTINF:-1,NFL 6 HD
-http://latvonlive.com:33612/2030/1234/717
-#EXTINF:-1,NFL 7 HD
-http://latvonlive.com:33612/2030/1234/718
-#EXTINF:-1,NFL 8 HD
-http://latvonlive.com:33612/2030/1234/719
-#EXTINF:-1,NFL 9 HD
-http://latvonlive.com:33612/2030/1234/720
-#EXTINF:-1,NFl 10 HD
-http://latvonlive.com:33612/2030/1234/721
-#EXTINF:-1,NHL Network HD
-http://latvonlive.com:33612/2030/1234/747
-#EXTINF:-1,Olympic Channel HD
-http://latvonlive.com:33612/2030/1234/286
-#EXTINF:-1,Outdoor Channel HD
-http://latvonlive.com:33612/2030/1234/822
-#EXTINF:-1,Outside Television HD
-http://latvonlive.com:33612/2030/1234/821
-#EXTINF:-1,Sportsman Channel HD
-http://latvonlive.com:33612/2030/1234/817
-#EXTINF:-1,Sportsnet NY HD
-http://latvonlive.com:33612/2030/1234/938
-#EXTINF:-1,Tennis Channel HD
-http://latvonlive.com:33612/2030/1234/951
-#EXTINF:-1,The Fight Network HD
-http://latvonlive.com:33612/2030/1234/281
-#EXTINF:-1,The Golf Channel HD
-http://latvonlive.com:33612/2030/1234/259
-#EXTINF:-1,TVG HD
-http://latvonlive.com:33612/2030/1234/889
-#EXTINF:-1,TVG2 HD
-http://latvonlive.com:33612/2030/1234/132
-#EXTINF:-1,UFC TV
-http://latvonlive.com:33612/2030/1234/757
-#EXTINF:-1,World Fishing Network HD (US)
-http://latvonlive.com:33612/2030/1234/808
-#EXTINF:-1,WWE Network HD
-http://latvonlive.com:33612/2030/1234/749
-#EXTINF:-1,Yes Network HD
-http://latvonlive.com:33612/2030/1234/895
-#EXTINF:-1,BabyTV Español
-http://latvonlive.com:33612/2030/1234/235
-#EXTINF:-1,Boomerang Latinoamérica
-http://latvonlive.com:33612/2030/1234/34
-#EXTINF:-1,Cartoon Network HD
-http://latvonlive.com:33612/2030/1234/39
-#EXTINF:-1,Discovery Familia HD
-http://latvonlive.com:33612/2030/1234/921
-#EXTINF:-1,Discovery Kids HD
-http://latvonlive.com:33612/2030/1234/622
-#EXTINF:-1,Disney HD
-http://latvonlive.com:33612/2030/1234/636
-#EXTINF:-1,Disney Junior HD
-http://latvonlive.com:33612/2030/1234/37
-#EXTINF:-1,Disney XD Latinoamérica
-http://latvonlive.com:33612/2030/1234/496
-#EXTINF:-1,Nat Geo Kids HD
-http://latvonlive.com:33612/2030/1234/589
-#EXTINF:-1,Nick HD
-http://latvonlive.com:33612/2030/1234/586
-#EXTINF:-1,Nick 2 HD
-http://latvonlive.com:33612/2030/1234/417
-#EXTINF:-1,Nick Jr HD
-http://latvonlive.com:33612/2030/1234/587
-#EXTINF:-1,Nicktoons Latinoamérica
-http://latvonlive.com:33612/2030/1234/752
-#EXTINF:-1,Tooncast
-http://latvonlive.com:33612/2030/1234/639
-#EXTINF:-1,Baby TV US
-http://latvonlive.com:33612/2030/1234/280
-#EXTINF:-1,Boomerang US
-http://latvonlive.com:33612/2030/1234/742
-#EXTINF:-1,Cartoon Network East HD US
-http://latvonlive.com:33612/2030/1234/667
-#EXTINF:-1,Discovery Family Channel HD
-http://latvonlive.com:33612/2030/1234/922
-#EXTINF:-1,Disney Channel HD US
-http://latvonlive.com:33612/2030/1234/668
-#EXTINF:-1,Disney Junior HD US
-http://latvonlive.com:33612/2030/1234/929
-#EXTINF:-1,Disney XD HD US
-http://latvonlive.com:33612/2030/1234/656
-#EXTINF:-1,Nick Jr HD US
-http://latvonlive.com:33612/2030/1234/136
-#EXTINF:-1,Nickelodeon HD US
-http://latvonlive.com:33612/2030/1234/152
-#EXTINF:-1,NickMusic HD
-http://latvonlive.com:33612/2030/1234/154
-#EXTINF:-1,Nicktoons HD
-http://latvonlive.com:33612/2030/1234/137
-#EXTINF:-1,TeenNick HD
-http://latvonlive.com:33612/2030/1234/138
-#EXTINF:-1,Universal Kids HD
-http://latvonlive.com:33612/2030/1234/279
-#EXTINF:-1,A&E HD
-http://latvonlive.com:33612/2030/1234/635
-#EXTINF:-1,Az Mundo HD
-http://latvonlive.com:33612/2030/1234/631
-#EXTINF:-1,Canal FOX HD
-http://latvonlive.com:33612/2030/1234/612
-#EXTINF:-1,Canal Sony HD
-http://latvonlive.com:33612/2030/1234/584
-#EXTINF:-1,Comedy Central HD
-http://latvonlive.com:33612/2030/1234/415
-#EXTINF:-1,Distrito Comedia
-http://latvonlive.com:33612/2030/1234/896
-#EXTINF:-1,Fox Life HD
-http://latvonlive.com:33612/2030/1234/613
-#EXTINF:-1,FX HD
-http://latvonlive.com:33612/2030/1234/608
-#EXTINF:-1,Glitz
-http://latvonlive.com:33612/2030/1234/648
-#EXTINF:-1,Hola TV HD
-http://latvonlive.com:33612/2030/1234/543
-#EXTINF:-1,Lifetime Latinoamérica
-http://latvonlive.com:33612/2030/1234/499
-#EXTINF:-1,Mas Chic TV HD
-http://latvonlive.com:33612/2030/1234/595
-#EXTINF:-1,Pasiones HD
-http://latvonlive.com:33612/2030/1234/416
-#EXTINF:-1,RCN Novelas
-http://latvonlive.com:33612/2030/1234/5689
-#EXTINF:-1,SyFy HD
-http://latvonlive.com:33612/2030/1234/78
-#EXTINF:-1,TBS Latinoamérica
-http://latvonlive.com:33612/2030/1234/641
-#EXTINF:-1,TNT Series HD
-http://latvonlive.com:33612/2030/1234/327
-#EXTINF:-1,TruTV HD
-http://latvonlive.com:33612/2030/1234/579
-#EXTINF:-1,Unicable HD
-http://latvonlive.com:33612/2030/1234/12
-#EXTINF:-1,Univision TL Novelas
-http://latvonlive.com:33612/2030/1234/365
-#EXTINF:-1,Warner HD
-http://latvonlive.com:33612/2030/1234/576
-#EXTINF:-1,A&E Network HD US
-http://latvonlive.com:33612/2030/1234/298
-#EXTINF:-1,AMC HD US
-http://latvonlive.com:33612/2030/1234/657
-#EXTINF:-1,American Heroes Channel HD
-http://latvonlive.com:33612/2030/1234/913
-#EXTINF:-1,AXS TV HD
-http://latvonlive.com:33612/2030/1234/5696
-#EXTINF:-1,BBC America HD
-http://latvonlive.com:33612/2030/1234/857
-#EXTINF:-1,BET HD
-http://latvonlive.com:33612/2030/1234/146
-#EXTINF:-1,BET Her HD
-http://latvonlive.com:33612/2030/1234/139
-#EXTINF:-1,BET Soul HD
-http://latvonlive.com:33612/2030/1234/141
-#EXTINF:-1,Bravo HD
-http://latvonlive.com:33612/2030/1234/297
-#EXTINF:-1,CMT HD
-http://latvonlive.com:33612/2030/1234/147
-#EXTINF:-1,Comedy Central HD US
-http://latvonlive.com:33612/2030/1234/148
-#EXTINF:-1,Cooking Channel
-http://latvonlive.com:33612/2030/1234/848
-#EXTINF:-1,Cozi TV
-http://latvonlive.com:33612/2030/1234/283
-#EXTINF:-1,Destination America HD
-http://latvonlive.com:33612/2030/1234/655
-#EXTINF:-1,Discovery Life HD
-http://latvonlive.com:33612/2030/1234/915
-#EXTINF:-1,DIY
-http://latvonlive.com:33612/2030/1234/847
-#EXTINF:-1,E! Entertainment Television
-http://latvonlive.com:33612/2030/1234/295
-#EXTINF:-1,Food Network HD
-http://latvonlive.com:33612/2030/1234/360
-#EXTINF:-1,Freeform HD
-http://latvonlive.com:33612/2030/1234/910
-#EXTINF:-1,FUSE
-http://latvonlive.com:33612/2030/1234/366
-#EXTINF:-1,FX HD US
-http://latvonlive.com:33612/2030/1234/293
-#EXTINF:-1,FXX HD
-http://latvonlive.com:33612/2030/1234/291
-#EXTINF:-1,FYI Channel HD
-http://latvonlive.com:33612/2030/1234/290
-#EXTINF:-1,Game Show Network
-http://latvonlive.com:33612/2030/1234/837
-#EXTINF:-1,HGTV HD
-http://latvonlive.com:33612/2030/1234/659
-#EXTINF:-1,HLN HD US
-http://latvonlive.com:33612/2030/1234/933
-#EXTINF:-1,IFC
-http://latvonlive.com:33612/2030/1234/833
-#EXTINF:-1,INSP
-http://latvonlive.com:33612/2030/1234/832
-#EXTINF:-1,Investigation Discovery HD
-http://latvonlive.com:33612/2030/1234/660
-#EXTINF:-1,Lifetime HD US
-http://latvonlive.com:33612/2030/1234/505
-#EXTINF:-1,Logo HD
-http://latvonlive.com:33612/2030/1234/149
-#EXTINF:-1,MTV HD US
-http://latvonlive.com:33612/2030/1234/150
-#EXTINF:-1,MTV2 HD
-http://latvonlive.com:33612/2030/1234/135
-#EXTINF:-1,Oxygen
-http://latvonlive.com:33612/2030/1234/289
-#EXTINF:-1,Paramount Network HD
-http://latvonlive.com:33612/2030/1234/151
-#EXTINF:-1,POP HD
-http://latvonlive.com:33612/2030/1234/367
-#EXTINF:-1,REVOLT HD
-http://latvonlive.com:33612/2030/1234/288
-#EXTINF:-1,Smithsonian Channel HD
-http://latvonlive.com:33612/2030/1234/819
-#EXTINF:-1,Syfy HD US
-http://latvonlive.com:33612/2030/1234/287
-#EXTINF:-1,TBS HD US
-http://latvonlive.com:33612/2030/1234/934
-#EXTINF:-1,TCM HD US
-http://latvonlive.com:33612/2030/1234/663
-#EXTINF:-1,TLC HD US
-http://latvonlive.com:33612/2030/1234/664
-#EXTINF:-1,TNT HD US
-http://latvonlive.com:33612/2030/1234/557
-#EXTINF:-1,Travel Channel HD
-http://latvonlive.com:33612/2030/1234/359
-#EXTINF:-1,truTV HD US
-http://latvonlive.com:33612/2030/1234/534
-#EXTINF:-1,TV Land HD
-http://latvonlive.com:33612/2030/1234/144
-#EXTINF:-1,USA Network HD
-http://latvonlive.com:33612/2030/1234/285
-#EXTINF:-1,VH1 HD US
-http://latvonlive.com:33612/2030/1234/145
-#EXTINF:-1,Viceland HD
-http://latvonlive.com:33612/2030/1234/284
-#EXTINF:-1,WE TV HD
-http://latvonlive.com:33612/2030/1234/666
-#EXTINF:-1,Animal Planet HD
-http://latvonlive.com:33612/2030/1234/57
-#EXTINF:-1,Discovery Channel HD
-http://latvonlive.com:33612/2030/1234/624
-#EXTINF:-1,Discovery en Español US
-http://latvonlive.com:33612/2030/1234/558
-#EXTINF:-1,Discovery Home & Health HD
-http://latvonlive.com:33612/2030/1234/623
-#EXTINF:-1,Discovery ID HD
-http://latvonlive.com:33612/2030/1234/422
-#EXTINF:-1,Discovery Science
-http://latvonlive.com:33612/2030/1234/640
-#EXTINF:-1,Discovery Theater HD
-http://latvonlive.com:33612/2030/1234/418
-#EXTINF:-1,Discovery Turbo
-http://latvonlive.com:33612/2030/1234/134
-#EXTINF:-1,Discovery World HD
-http://latvonlive.com:33612/2030/1234/419
-#EXTINF:-1,El Gourmet HD
-http://latvonlive.com:33612/2030/1234/604
-#EXTINF:-1,History Channel HD
-http://latvonlive.com:33612/2030/1234/598
-#EXTINF:-1,H2 HD
-http://latvonlive.com:33612/2030/1234/19
-#EXTINF:-1,Nat Geo Wild HD
-http://latvonlive.com:33612/2030/1234/588
-#EXTINF:-1,National Geographic HD
-http://latvonlive.com:33612/2030/1234/590
-#EXTINF:-1,TLC HD
-http://latvonlive.com:33612/2030/1234/65
-#EXTINF:-1,Animal Planet HD US
-http://latvonlive.com:33612/2030/1234/682
-#EXTINF:-1,Discovery Channel HD US
-http://latvonlive.com:33612/2030/1234/916
-#EXTINF:-1,History HD US
-http://latvonlive.com:33612/2030/1234/304
-#EXTINF:-1,NASA TV
-http://latvonlive.com:33612/2030/1234/36
-#EXTINF:-1,National Geographic HD US
-http://latvonlive.com:33612/2030/1234/303
-#EXTINF:-1,National Geographic Wild HD US
-http://latvonlive.com:33612/2030/1234/302
-#EXTINF:-1,Science Channel HD
-http://latvonlive.com:33612/2030/1234/914
-#EXTINF:-1,AMC HD
-http://latvonlive.com:33612/2030/1234/633
-#EXTINF:-1,AXN HD
-http://latvonlive.com:33612/2030/1234/632
-#EXTINF:-1,Cine Sony HD
-http://latvonlive.com:33612/2030/1234/493
-#EXTINF:-1,Cinecanal HD
-http://latvonlive.com:33612/2030/1234/628
-#EXTINF:-1,Cinema Dinamita
-http://latvonlive.com:33612/2030/1234/95
-#EXTINF:-1,CineMax HD
-http://latvonlive.com:33612/2030/1234/96
-#EXTINF:-1,Cinemax East latino
-http://latvonlive.com:33612/2030/1234/723
-#EXTINF:-1,De Película Clásico
-http://latvonlive.com:33612/2030/1234/364
-#EXTINF:-1,De Película HD
-http://latvonlive.com:33612/2030/1234/363
-#EXTINF:-1,DHE HD
-http://latvonlive.com:33612/2030/1234/97
-#EXTINF:-1,Fox Premium Action HD
-http://latvonlive.com:33612/2030/1234/611
-#EXTINF:-1,Fox Premium Cinema HD
-http://latvonlive.com:33612/2030/1234/616
-#EXTINF:-1,Fox Premium Classics HD
-http://latvonlive.com:33612/2030/1234/615
-#EXTINF:-1,Fox Premium Comedy HD
-http://latvonlive.com:33612/2030/1234/614
-#EXTINF:-1,Fox Premium Family HD
-http://latvonlive.com:33612/2030/1234/610
-#EXTINF:-1,Fox Premium Movies HD
-http://latvonlive.com:33612/2030/1234/609
-#EXTINF:-1,Fox Premium Series HD
-http://latvonlive.com:33612/2030/1234/101
-#EXTINF:-1,FX Movie HD
-http://latvonlive.com:33612/2030/1234/581
-#EXTINF:-1,Golden Plus HD
-http://latvonlive.com:33612/2030/1234/607
-#EXTINF:-1,HBO Family HD
-http://latvonlive.com:33612/2030/1234/602
-#EXTINF:-1,HBO HD
-http://latvonlive.com:33612/2030/1234/601
-#EXTINF:-1,HBO Latino HD
-http://latvonlive.com:33612/2030/1234/28
-#EXTINF:-1,HBO 2 HD
-http://latvonlive.com:33612/2030/1234/603
-#EXTINF:-1,HBO Mundi HD
-http://latvonlive.com:33612/2030/1234/594
-#EXTINF:-1,HBO Plus HD
-http://latvonlive.com:33612/2030/1234/600
-#EXTINF:-1,HBO POP HD
-http://latvonlive.com:33612/2030/1234/593
-#EXTINF:-1,HBO Signature HD
-http://latvonlive.com:33612/2030/1234/599
-#EXTINF:-1,HBO Xtreme HD
-http://latvonlive.com:33612/2030/1234/103
-#EXTINF:-1,Space HD
-http://latvonlive.com:33612/2030/1234/332
-#EXTINF:-1,Studio Universal
-http://latvonlive.com:33612/2030/1234/109
-#EXTINF:-1,TNT HD
-http://latvonlive.com:33612/2030/1234/322
-#EXTINF:-1,TNT HD Mexico
-http://latvonlive.com:33612/2030/1234/331
-#EXTINF:-1,Universal Channel HD
-http://latvonlive.com:33612/2030/1234/111
-#EXTINF:-1,Cinemax East HD US
-http://latvonlive.com:33612/2030/1234/724
-#EXTINF:-1,Comet HD
-http://latvonlive.com:33612/2030/1234/820
-#EXTINF:-1,Epix Hits HD
-http://latvonlive.com:33612/2030/1234/911
-#EXTINF:-1,FX Movie Channel HD
-http://latvonlive.com:33612/2030/1234/292
-#EXTINF:-1,Hallmark Channel HD
-http://latvonlive.com:33612/2030/1234/836
-#EXTINF:-1,Hallmark Drama HD
-http://latvonlive.com:33612/2030/1234/835
-#EXTINF:-1,Hallmark Movies & Mysteries HD
-http://latvonlive.com:33612/2030/1234/834
-#EXTINF:-1,HBO HD US
-http://latvonlive.com:33612/2030/1234/685
-#EXTINF:-1,HBO Latino English HD
-http://latvonlive.com:33612/2030/1234/29
-#EXTINF:-1,HBO Xtreme English HD
-http://latvonlive.com:33612/2030/1234/104
-#EXTINF:-1,Lifetime Movie Network HD
-http://latvonlive.com:33612/2030/1234/503
-#EXTINF:-1,Showtime East HD
-http://latvonlive.com:33612/2030/1234/696
-#EXTINF:-1,Sony Movie Channel HD
-http://latvonlive.com:33612/2030/1234/818
-#EXTINF:-1,Starz Cinema HD
-http://latvonlive.com:33612/2030/1234/692
-#EXTINF:-1,Starz Comedy HD
-http://latvonlive.com:33612/2030/1234/693
-#EXTINF:-1,Starz East HD
-http://latvonlive.com:33612/2030/1234/697
-#EXTINF:-1,Starz Edge HD
-http://latvonlive.com:33612/2030/1234/694
-#EXTINF:-1,StarzEncore East HD
-http://latvonlive.com:33612/2030/1234/642
-#EXTINF:-1,Starz Kids & Family
-http://latvonlive.com:33612/2030/1234/695
-#EXTINF:-1,SundanceTV HD
-http://latvonlive.com:33612/2030/1234/582
-#EXTINF:-1,BBC World News HD
-http://latvonlive.com:33612/2030/1234/10
-#EXTINF:-1,Bloomberg TV
-http://latvonlive.com:33612/2030/1234/5691
-#EXTINF:-1,CNBC HD
-http://latvonlive.com:33612/2030/1234/274
-#EXTINF:-1,CNBC World HD
-http://latvonlive.com:33612/2030/1234/497
-#EXTINF:-1,CNN en Español
-http://latvonlive.com:33612/2030/1234/758
-#EXTINF:-1,CNN HD US
-http://latvonlive.com:33612/2030/1234/650
-#EXTINF:-1,CNN International HD
-http://latvonlive.com:33612/2030/1234/652
-#EXTINF:-1,Fox Business HD
-http://latvonlive.com:33612/2030/1234/272
-#EXTINF:-1,Fox News Channel HD
-http://latvonlive.com:33612/2030/1234/273
-#EXTINF:-1,MSNBC HD
-http://latvonlive.com:33612/2030/1234/271
-#EXTINF:-1,NTN24 Nuestra Tele Noticias 24
-http://latvonlive.com:33612/2030/1234/223
-#EXTINF:-1,The Weather Channel HD
-http://latvonlive.com:33612/2030/1234/370
-#EXTINF:-1,CatholicTV
-http://latvonlive.com:33612/2030/1234/83
-#EXTINF:-1,CBN Español
-http://latvonlive.com:33612/2030/1234/105
-#EXTINF:-1,CFN TV
-http://latvonlive.com:33612/2030/1234/90
-#EXTINF:-1,Cielo TV
-http://latvonlive.com:33612/2030/1234/91
-#EXTINF:-1,Enlace TV
-http://latvonlive.com:33612/2030/1234/23
-#EXTINF:-1,Esperanza TV
-http://latvonlive.com:33612/2030/1234/106
-#EXTINF:-1,EWTN Canada
-http://latvonlive.com:33612/2030/1234/43
-#EXTINF:-1,EWTN Latinoamérica
-http://latvonlive.com:33612/2030/1234/46
-#EXTINF:-1,Mision Vida TV
-http://latvonlive.com:33612/2030/1234/110
-#EXTINF:-1,Bandamax
-http://latvonlive.com:33612/2030/1234/229
-#EXTINF:-1,BET Jams HD
-http://latvonlive.com:33612/2030/1234/140
-#EXTINF:-1,MTV Classic Hd
-http://latvonlive.com:33612/2030/1234/142
-#EXTINF:-1,MTV HD
-http://latvonlive.com:33612/2030/1234/592
-#EXTINF:-1,MTV Live HD
-http://latvonlive.com:33612/2030/1234/420
-#EXTINF:-1,MTV Live HD US
-http://latvonlive.com:33612/2030/1234/143
-#EXTINF:-1,MTVU HD
-http://latvonlive.com:33612/2030/1234/155
-#EXTINF:-1,USA IPTV  M3U Playlist pastebin
-https://pastebin.com/raw/HnrVsqZq
+#EXTINF:0,68 - ABC News Digital
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:0,69 - ABC News Digital 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:0,70 - ABC News Digital 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:0,71 - ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF:0,72 - ABC News Digital 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:0,73 - ABC News Digital 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF:0,74 - ABC News Digital 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:0,75 - ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:0,76 - ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:0,77 - ABC News Digital 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:0,79 - C-SPAN.org Live Event
+http://dotorg1-lh.akamaihd.net/i/dotorg1_1@301849/master.m3u8
+#EXTINF:0,80 - C-SPAN.org Live Event 2
+https://skystreams-lh.akamaihd.net/i/SkyDotorg1_1@500812/master.m3u8
+#EXTINF:0,81 - C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:0,82 - C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:0,83 - C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:0,89 - Fox News Convention Coverage
+https://fnurtmp-f.akamaihd.net/i/RNCPOOL_1@344188/master.m3u8
+#EXTINF:0,91 - Fox News Digital Hangout
+https://fnurtmp-f.akamaihd.net/i/DIGHANGOUT_1@344188/master.m3u8
+#EXTINF:0,93 - NBC News Live Event
+https://nbcnews-lh.akamaihd.net/i/nbc_live11@183427/master.m3u8
+#EXTINF:0,95 - WSJ Live
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:0,100 - Bloomberg US
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0,101 - TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0,102 - ABC News Live
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0,103 - The Alex Jones Radio Show
+https://streaminfo-live.secure.footprint.net/hls-live/streamroot2-streaminfo/_definst_/live.m3u8
+#EXTINF:0,104 - CBSN
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:0,106 - Cheddar
+https://live.chdrstatic.com/cheddar/index.m3u8
+#EXTINF:0,107 - Cheddar Big News
+https://live.chdrstatic.com/cbn/index.m3u8
+#EXTINF:0,108 - FNC Preview
+http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
+#EXTINF:0,110 - Fox News Talk
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:0,111 - Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:0,113 - Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0,115 - Pluto TV Headlines
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:0,116 - RT America
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:0,117 - Sky News America
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/skynewsamericas_cdhls.m3u8
+#EXTINF:0,118 - - The David Knight Show
+https://streaminfo-live.secure.footprint.net/hls-live/streamroot2-streaminfo3/_definst_/live.m3u8
+#EXTINF:0,119 - War Room with David Shroyer
+https://streaminfo-live.secure.footprint.net/hls-live/streamroot2-streaminfo2/_definst_/live.m3u8
+#EXTINF:0,121 - WeatherNation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0,124 - CBN News
+https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0,126 - CGTN English
+https://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:0,127 - DW
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0,134 - VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:0,135 - 7 News (WDHH-TV)
+https://bcoveliveios-i.akamaihd.net/hls/live/246496/4744899807001/livestream/master.m3u8
+#EXTINF:0,138 - 360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:0,142 - Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:0,143 - Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:0,144 - Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:0,145 - Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0,146 - Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:0,147 - Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:0,148 - Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:0,149 - CPAC 1 (Cable Public Affairs Channel)
+http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
+#EXTINF:0,150 - Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:0,152 - District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:0,159 - Garland TV
+http://oflash-alt.dfw.swagit.com/live/garlandtx/smil:hd-16x9-1-a/chunklist.m3u8
+#EXTINF:0,161 - House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0,163 - KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:0,165 - Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:0,169 - KRIS News
+https://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8
+#EXTINF:0,177 - NBC Bay Area (KNTV-TV)
+https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8
+#EXTINF:0,178 - NBC Bay Area Traffic Cam (KNTV-TV)
+https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:0,180 - News4 (WRC-TV)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:0,181 - News4 White House Cam (WRC-TV)
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:0,185 - New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0,191 - NBC4 New York News (WNBC-TV) alt
+https://wnbclive-f.akamaihd.net/i/wnbca2_1@13992/master.m3u8
+#EXTINF:0,193 - NBC5 News (WMAQ-TV)
+https://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:0,196 - NBC 10 News (KTEN-TV)
+https://kten-lh.akamaihd.net/i/KTEN_1079@5589/master.m3u8
+#EXTINF:0,203 - Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:0,205 - RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0,206 - Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:0,208 - Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0,212 - Town of Vienna Community Network [HQ]
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8
+#EXTINF:0,213 - TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0,214 - TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0,215 - TVW2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:0,219 - WBTV News
+https://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
+#EXTINF:0,221 - WCNC Breaking News
+http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:0,232 - WUSA9 Breaking News
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:0,236 - CBS Sports HQ
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
+#EXTINF:0,237 - Fox Sports
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,241 - ACC Network
+https://raycomacc.akamaized.net/hls/live/597810/raycomacc/master.m3u8
+#EXTINF:0,245 - NCAA College Basketball on CBS
+http://cbssportsliveios-i.akamaihd.net/hls/live/200603/cbklive2/desktop.m3u8
+#EXTINF:0,249 - SEC on CBS
+http://cbssportsliveios-i.akamaihd.net/hls/live/200603/seclive1/desktop.m3u8
+#EXTINF:0,254 - Pluto TV Cars
+https://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0,255 - Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
